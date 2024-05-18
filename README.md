@@ -6,7 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  <!-- - [Links](#links) -->
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -19,12 +19,12 @@ Here, I have created a simple QR code component using good CSS practice. I have 
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
-<!-- ### Links
+### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+<!-- - Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
 ## My process
 - Since this was a simple project, I put all the elements within a main tag instead of creating separate div for each components.
 - I created reusable variables for colors and font faces.
