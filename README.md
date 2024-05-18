@@ -23,8 +23,8 @@ Here, I have created a simple QR code component using good CSS practice. I have 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-<!-- - Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+- Solution URL: [At Frontend Mentor](https://www.frontendmentor.io/solutions/qrcodecomponentsolution-QT32soV0-J)
+- Live Site URL: [Click Here](https://nimble-beignet-95d5e1.netlify.app/)
 ## My process
 - Since this was a simple project, I put all the elements within a main tag instead of creating separate div for each components.
 - I created reusable variables for colors and font faces.
